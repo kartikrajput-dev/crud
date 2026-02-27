@@ -1,0 +1,4 @@
+github.com/KARTIKrocks/apikit v0.8.0 h1:dW6C1n6dMospJxi8VFGfY3o7KdB3w/meWuWV0d2Paow=
+github.com/KARTIKrocks/apikit v0.8.0/go.mod h1:eGWS/J/EjFcPYrMXTByeGKBjtU54qFIj7e2TGuMbT3o=
+github.com/lib/pq v1.11.2 h1:x6gxUeu39V0BHZiugWe8LXZYZ+Utk7hSJGThs8sdzfs=
+github.com/lib/pq v1.11.2/go.mod h1:/p+8NSbOcwzAEI7wiMXFlgydTwcgTr3OSKMsD2BitpA=
